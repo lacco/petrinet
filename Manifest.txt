@@ -3,11 +3,11 @@ Manifest.txt
 PostInstall.txt
 README.rdoc
 Rakefile
-lib/PetriNet.rb
+lib/petri_net.rb
 script/console
 script/destroy
 script/generate
-spec/PetriNet_spec.rb
+spec/petri_net_spec.rb
 spec/spec.opts
 spec/spec_helper.rb
 tasks/rspec.rake
