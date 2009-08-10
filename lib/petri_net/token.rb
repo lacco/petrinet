@@ -1,0 +1,2 @@
+class PetriNet::Token
+end
